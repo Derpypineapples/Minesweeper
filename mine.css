@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+}
+
+td{
+    background-color: lightgrey;
+    padding: 0%;
+    width: 20px;
+    height: 20px;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
